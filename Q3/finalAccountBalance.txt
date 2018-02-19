@@ -1,0 +1,6 @@
+Withdrawel	W 250.00
+Withdrawel	W 75.00
+Withdrawel	W 375.00
+Withdrawel	W 400.00
+Withdrawel	W 600.00
+Withdrawel	W 35.65
